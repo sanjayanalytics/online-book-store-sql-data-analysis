@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-## Project Objectives
+## Objectives
 Analyze the Online Book Store database using PostgreSQL to gain insights into inventory, sales, revenue, and customer behavior.
 
 ## Tools & Technologies
