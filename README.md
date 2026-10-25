@@ -57,7 +57,11 @@ Analyze the Online Book Store database using PostgreSQL to gain insights into in
 ## Thank You
 
 ## Author
-Sanjay Kumar Thakur
+**Sanjay Kumar Thakur**
+*Aspiring Data Analyst*
 
-## Repository
-Add your GitHub repository URL here.
+### 🔗 Connect with Me
+
+- **LinkedIn:** [Sanjay Kumar Thakur](https://www.linkedin.com/in/sanjay-kumar-thakur-data-analyst/)
+- **GitHub:** [sanjayanalytics](https://github.com/sanjayanalytics)
+
